@@ -65,7 +65,7 @@ src="https://github-readme-stats.shion.dev/api?username=ahbandegan&theme=tokyoni
 <img height="170"
 src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahbandegan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=ahbandegan&theme=tokyonight&hide_border=true"/>
 
