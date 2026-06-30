@@ -97,12 +97,6 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahbandegan&th
 - Jetpack Compose
 - Room Database
 
-### 🤖 AI & Automation
-
-- Python
-- Machine Learning
-- Intelligent Systems
-
 ---
 
 # 📬 Contact Me
