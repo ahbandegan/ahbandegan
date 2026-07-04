@@ -113,10 +113,6 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahbandegan&th
 
 </div>
 
----
-
-# 🌌 Footer
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0f3460,100:0a192f&height=120&section=footer"/>
