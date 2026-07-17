@@ -107,7 +107,7 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahbandegan&th
 <img src="https://img.shields.io/badge/Gmail-Email-00c6ff?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://t.me/ahbandegan">
+<a href="https://t.me/erenXyager">
 <img src="https://img.shields.io/badge/Telegram-Contact-00c6ff?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
