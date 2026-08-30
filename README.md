@@ -73,16 +73,6 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahbandegan&th
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahbandegan&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 ### 🌐 Web Development
