@@ -45,7 +45,7 @@ I enjoy transforming ideas into real-world products with clean architecture, mai
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind&theme=dark"/>
 </p>
 
 ### Android & Mobile
