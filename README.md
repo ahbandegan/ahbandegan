@@ -13,7 +13,6 @@
   <!-- Status & Quick Metrics -->
   <p align="center">
     <a href="mailto:amirhesambnd1387@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20HIRE-00e5ff?style=for-the-badge&logoColor=050814&labelColor=050814" alt="Status"/></a>
-    <img src="https://komarev.com/ghpvc/?username=ahbandegan&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" height="28"/>
     <img src="https://img.shields.io/github/stars/ahbandegan?style=for-the-badge&color=00e5ff&label=STARS&labelColor=050814" alt="Stars"/>
     <img src="https://img.shields.io/github/followers/ahbandegan?style=for-the-badge&color=00e5ff&label=FOLLOWERS&labelColor=050814" alt="Followers"/>
   </p>
