@@ -1,20 +1,31 @@
 <div align="center">
 
-  <!-- Main Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,40:0b192e,100:00e5ff&height=250&section=header&text=AmirHesam%20Bandegan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Mobile%20Engineer&descSize=17&descAlignY=58" width="100%"/>
+  <!-- Main Title & Role Header (Zero-Breakage Native GitHub Rendering) -->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,40:0b192e,100:00e5ff&height=250&section=header&text=AmirHesam%20Bandegan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Mobile%20Engineer&descSize=17&descAlignY=58" width="100%"/>
+
+  <p><b>Android & Mobile Engineer  |  Full-Stack Web Developer</b></p>
 
   <!-- Dynamic Typing Subheading -->
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Resilient%2C+High-Throughput+Systems;Crafting+Fluid+Android+%26+Cross-Platform+Apps;Clean+Architecture+%7C+Modern+Design+Patterns;TypeScript+%E2%80%A2+Kotlin+%E2%80%A2+Python+%E2%80%A2+Flutter" alt="Typing SVG" />
+  <a href="https://amirhesambandegan.ir">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=38BDF8&center=true&vCenter=true&width=750&lines=Native+Android+Development+(Kotlin+%26+Jetpack+Compose);Full-Stack+Web+Engineering+(Next.js+%7C+Node.js+%7C+TypeScript);Creator+of+HesabKetab%2C+Easify-Android+%26+nodel-cli;Sharing+Knowledge+on+CodeCast+(YouTube+%26+Telegram)" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Status & Quick Metrics -->
+  <!-- Quick Links & Live Metrics -->
   <p align="center">
-    <a href="mailto:amirhesambnd1387@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20HIRE-00e5ff?style=for-the-badge&logoColor=050814&labelColor=050814" alt="Status"/></a>
-    <img src="https://img.shields.io/github/stars/ahbandegan?style=for-the-badge&color=00e5ff&label=STARS&labelColor=050814" alt="Stars"/>
-    <img src="https://img.shields.io/github/followers/ahbandegan?style=for-the-badge&color=00e5ff&label=FOLLOWERS&labelColor=050814" alt="Followers"/>
+    <a href="https://amirhesambandegan.ir">
+      <img src="https://img.shields.io/badge/WEBSITE-amirhesambandegan.ir-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=050508&labelColor=050508" alt="Website"/>
+    </a>
+    <a href="mailto:amirhesambnd1387@gmail.com">
+      <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20PROJECTS-10b981?style=for-the-badge&logoColor=050508&labelColor=050508" alt="Status"/>
+    </a>
+    <a href="https://github.com/ahbandegan?tab=repositories">
+      <img src="https://img.shields.io/github/stars/ahbandegan?style=for-the-badge&color=a855f7&label=STARS&labelColor=050508" alt="Stars"/>
+    </a>
+    <a href="https://github.com/ahbandegan?tab=followers">
+      <img src="https://img.shields.io/github/followers/ahbandegan?style=for-the-badge&color=38bdf8&label=FOLLOWERS&labelColor=050508" alt="Followers"/>
+    </a>
   </p>
 
 </div>
@@ -23,42 +34,88 @@
 
 ### ⚡ About Me
 
-I am a passionate **Full-Stack & Mobile Engineer** focused on building production-grade software with resilient architectures, clean design patterns, and great end-user experiences.
+I'm **AmirHesam Bandegan**, a **Software Developer** specializing in **Native Android (Kotlin & Jetpack Compose)**, **Cross-Platform Mobile (Flutter)**, and **Full-Stack Web Engineering (Next.js & Node.js)**. I love turning complex ideas into fast, well-crafted, and scalable products.
 
-- 🔭 **Primary Focus:** High-throughput microservices, real-time backend pipelines, and fluid mobile applications.
-- 🏛️ **Architecture & Engineering:** Domain-Driven Design (DDD), Clean & Onion architectures, and reactive state management.
-- 🌱 **Current Learning & Exploring:** Distributed cloud systems, container orchestration, and performance tuning at scale.
-- 💬 **Ask me about:** Android (Kotlin / Compose), Flutter, Node.js, and scalable RESTful API design.
+- 🚀 **Creator of [HesabKetab](https://myket.ir/app/ir.amirhesambandegan.hesabketab):** A comprehensive personal finance & accounting Android app published on Myket.
+- 📦 **Open-Source Maintainer:** Building developer tools & libraries like **[Easify-Android](https://github.com/ahbandegan/Easify-Android)** and **[nodel-cli](https://github.com/ahbandegan/nodel-cli)**.
+- 🎥 **Content Creator at CodeCast:** Sharing Android architecture tutorials, programming insights, and dev tips on **[YouTube](https://youtube.com/@AHbandegan)** and **[Telegram](https://t.me/CodeCast202)**.
+- 🏛️ **Engineering Focus:** Clean Architecture, MVVM/MVI, offline-first mobile apps, reactive UI systems, and high-throughput REST/WebSocket APIs.
 
 ---
 
-### 🛠️ Technology Stack & Ecosystem
+### 🏆 Featured Products & Open-Source Ecosystem
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💰 <a href="https://myket.ir/app/ir.amirhesambandegan.hesabketab">HesabKetab (حساب کتاب)</a></h4>
+      <p>A modern, offline-first personal finance and accounting Android application built with <b>Kotlin</b>, <b>Jetpack Compose</b>, and <b>Room Database</b>. Published on Myket.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android-10b981?style=flat-square&logo=android&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-38bdf8?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 <a href="https://github.com/ahbandegan/Easify-Android">Easify-Android</a></h4>
+      <p>An open-source utility library for Android & Jetpack Compose providing ready-to-use helpers for networking, biometric authentication, location services, and UI components.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/ahbandegan/Easify-Android?style=flat-square&color=38bdf8&label=Stars"/>
+        <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Library-Open%20Source-38bdf8?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⏱️ <a href="https://github.com/ahbandegan/focus_flow">focus_flow</a></h4>
+      <p>A minimalist deep-work timer, focus tracker, and daily productivity companion built with a clean user interface for structured study and work sessions.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/ahbandegan/focus_flow?style=flat-square&color=38bdf8&label=Stars"/>
+        <img src="https://img.shields.io/badge/Flutter-05B5AD?style=flat-square&logo=flutter&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/ahbandegan/nodel-cli">nodel-cli</a> &amp; <a href="https://github.com/ahbandegan/git-lens">git-lens</a></h4>
+      <p><b>nodel-cli:</b> A lightweight Node.js CLI file-watcher & auto-reloader (like nodemon).<br/><b>git-lens:</b> A native Android showcase app consuming the GitHub REST API to inspect profiles & repos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js%20CLI-f1e05a?style=flat-square&logo=nodedotjs&logoColor=black"/>
+        <img src="https://img.shields.io/badge/GitHub%20API-38bdf8?style=flat-square&logo=github&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technology Stack & Arsenal
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>Mobile & Native</b></td>
-    <td align="center" width="75%">
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart&theme=dark" />
+    <td align="center" width="26%"><b>📱 Mobile (Native & Cross)</b></td>
+    <td align="center" width="74%">
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart&theme=dark" alt="Mobile Stack" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%"><b>Backend & APIs</b></td>
-    <td align="center" width="75%">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,cs&theme=dark" />
+    <td align="center" width="26%"><b>🌐 Frontend & Web</b></td>
+    <td align="center" width="74%">
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend Stack" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%"><b>Frontend & UI</b></td>
-    <td align="center" width="75%">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" />
+    <td align="center" width="26%"><b>⚙️ Backend & Systems</b></td>
+    <td align="center" width="74%">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,python,cpp,cs&theme=dark" alt="Backend Stack" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%"><b>Databases & DevOps</b></td>
-    <td align="center" width="75%">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,vscode&theme=dark" />
+    <td align="center" width="26%"><b>🗄️ Databases & DevOps</b></td>
+    <td align="center" width="74%">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,linux,git,github&theme=dark" alt="DevOps Stack" />
     </td>
   </tr>
 </table>
@@ -67,26 +124,26 @@ I am a passionate **Full-Stack & Mobile Engineer** focused on building productio
 
 ---
 
-### 🚀 Architecture & Core Competencies
+### 🏛️ Core Engineering Competencies
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🌐 Enterprise Web & Backend
-- **Microservices & APIs:** High-concurrency RESTful APIs and real-time sockets.
-- **Modern Full-Stack:** Next.js App Router, React Server Components & state pipelines.
-- **Persistence & Caching:** SQL schema tuning, indexing, and NoSQL aggregation.
-- **Robust Security:** OAuth2, JWT lifecycle, RBAC authorization, and API hardening.
+#### 📱 Android & Mobile Architecture
+- **Modern Native Stack:** Kotlin, Coroutines, Flow, Jetpack Compose, Koin DI, Ktor, and Room SQLite.
+- **Cross-Platform (Flutter):** Reactive state management using BLoC & Riverpod, Drift DB, and GoRouter.
+- **UI/UX Craftsmanship:** Dark glassmorphic interfaces, smooth 60fps transitions, and Material 3 design systems.
+- **Offline-First Reliability:** Local persistence, background syncing, and resilient error handling.
 
 </td>
 <td width="50%" valign="top">
 
-#### 📱 Mobile Engineering
-- **Native Android:** Modern Jetpack Compose, Kotlin Coroutines, and Flow.
-- **Multiplatform (Flutter):** Scalable state architectures (BLoC, Riverpod).
-- **Offline-First Systems:** Local caching, Room SQLite, dynamic synchronization.
-- **UI/UX Polish:** 60fps animations, Material 3 design systems, and responsive layouts.
+#### 🌐 Full-Stack Web & Infrastructure
+- **Modern Web Portals:** Next.js App Router, React Server Components, Tailwind CSS, and shadcn/ui.
+- **Backend & Real-Time APIs:** Node.js, Express, TypeScript, Socket.IO, and Prisma ORM.
+- **Data & Caching Layer:** Relational schema design (PostgreSQL / MySQL), MongoDB, and Redis caching.
+- **Linux & DevOps:** Docker containerization, Nginx reverse-proxy configuration, and Linux server administration.
 
 </td>
 </tr>
@@ -94,39 +151,50 @@ I am a passionate **Full-Stack & Mobile Engineer** focused on building productio
 
 ---
 
-### 📊 GitHub Activity & Insights
+### 📊 GitHub Activity & Telemetry
 
 <div align="center">
 
   <p align="center">
-    <img height="165" src="https://github-readme-stats.shion.dev/api?username=ahbandegan&show_icons=true&theme=tokyonight&bg_color=050814&title_color=00e5ff&icon_color=00e5ff&text_color=e0e6ed&border_color=00e5ff&hide_border=false&include_all_commits=true&count_private=true" alt="AmirHesam's GitHub stats" />
+    <img height="170" src="https://github-readme-stats.shion.dev/api?username=ahbandegan&show_icons=true&theme=tokyonight&bg_color=050508&title_color=38bdf8&icon_color=38bdf8&text_color=f4f4f5&border_color=38bdf8&hide_border=false&include_all_commits=true&count_private=true" alt="AmirHesam's GitHub stats" />
     &nbsp;
-    <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahbandegan&theme=tokyonight&bg_color=050814&title_color=00e5ff&text_color=e0e6ed&border_color=00e5ff&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahbandegan&theme=tokyonight&bg_color=050508&title_color=38bdf8&text_color=f4f4f5&border_color=38bdf8&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
   </p>
 
-  <img src="https://streak-stats.demolab.com/?user=ahbandegan&theme=tokyonight&background=050814&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00e5ff&currStreakLabel=00e5ff&border=00e5ff&hide_border=false" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ahbandegan&theme=tokyonight&background=050508&ring=38bdf8&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=38bdf8&currStreakLabel=38bdf8&border=38bdf8&hide_border=false" alt="Streak Stats" />
 
 </div>
 
 ---
 
-### 📬 Get In Touch
+### 🌐 Community & Direct Contact
 
 <div align="center">
 
-  <p>Whether you have an interesting project, an architectural challenge, or just want to connect:</p>
+  <p>Join our <b>CodeCast</b> developer community or reach out directly for collaborations & projects:</p>
 
-  <a href="mailto:amirhesambnd1387@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Direct%20Email-00e5ff?style=for-the-badge&logo=gmail&logoColor=050814&labelColor=ffffff" alt="Email"/>
+  <a href="https://amirhesambandegan.ir">
+    <img src="https://img.shields.io/badge/Portfolio-amirhesambandegan.ir-38bdf8?style=for-the-badge&logo=safari&logoColor=050508&labelColor=ffffff" alt="Website"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/erenXyager">
-    <img src="https://img.shields.io/badge/Telegram-Chat-00e5ff?style=for-the-badge&logo=telegram&logoColor=050814&labelColor=ffffff" alt="Telegram"/>
+  &nbsp;
+  <a href="https://youtube.com/@AHbandegan">
+    <img src="https://img.shields.io/badge/YouTube-@AHbandegan-ef4444?style=for-the-badge&logo=youtube&logoColor=ef4444&labelColor=ffffff" alt="YouTube"/>
   </a>
-
+  &nbsp;
+  <a href="https://t.me/CodeCast202">
+    <img src="https://img.shields.io/badge/Telegram%20Channel-@CodeCast202-38bdf8?style=for-the-badge&logo=telegram&logoColor=050508&labelColor=ffffff" alt="Telegram Channel"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/CodeCastChat">
+    <img src="https://img.shields.io/badge/Community%20Chat-@CodeCastChat-10b981?style=for-the-badge&logo=telegram&logoColor=050508&labelColor=ffffff" alt="Telegram Group"/>
+  </a>
   <br/><br/>
-
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,60:0b192e,100:050814&height=120&section=footer" width="100%"/>
+  <a href="https://t.me/erenXyager">
+    <img src="https://img.shields.io/badge/Direct%20Telegram-@erenXyager-a855f7?style=for-the-badge&logo=telegram&logoColor=050508&labelColor=ffffff" alt="Direct Telegram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:amirhesambnd1387@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-amirhesambnd1387@gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=050508&labelColor=ffffff" alt="Email"/>
+  </a>
 
 </div>
