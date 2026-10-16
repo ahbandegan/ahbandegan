@@ -115,7 +115,7 @@ I'm **AmirHesam Bandegan**, a **Software Developer** specializing in **Native An
   <tr>
     <td align="center" width="26%"><b>🗄️ Databases & DevOps</b></td>
     <td align="center" width="74%">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,linux,git,github&theme=dark" alt="DevOps Stack" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,git,github&theme=dark" alt="DevOps Stack" />
     </td>
   </tr>
 </table>
