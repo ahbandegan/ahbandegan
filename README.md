@@ -26,8 +26,9 @@
     <a href="https://github.com/ahbandegan?tab=followers">
       <img src="https://img.shields.io/github/followers/ahbandegan?style=for-the-badge&color=38bdf8&label=FOLLOWERS&labelColor=050508" alt="Followers"/>
     </a>
+    
   </p>
-
+<a href="https://wakatime.com/@2591fd8f-4a21-4db0-8070-2b82d47af235"><img src="https://wakatime.com/badge/user/2591fd8f-4a21-4db0-8070-2b82d47af235.svg" alt="Total time coded since Aug 30 2026" /></a>
 </div>
 
 ---
